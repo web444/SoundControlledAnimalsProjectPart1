@@ -1,0 +1,41 @@
+#headerDiv{
+
+background-color:rgba(149,163,164,255);
+color:white;
+margin-bottom: 20px;
+}
+#clickerButton{
+
+width: 150px;
+background-color: rgba(49,176,213,255);
+border: 5px double rgb(0, 0, 0);
+color: white;
+
+}
+body{
+background-color:rgba(226,232,221,255) ;
+
+}
+h2{
+font-family:fantasy;
+
+}
+p{
+    font-family:cursive;
+}
+.copyRightFooter{
+    background-color: white;
+    position: fixed;
+  bottom: 0;
+    left:0;
+    right:0
+}
+.moddderateDiv{
+color:purple;
+
+}
+#detectedNumber,#detectedAudio{
+font-weight: bold;
+    color:purple;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
